@@ -10,7 +10,7 @@ System.out.print(extractPrintableText.extract(file));
 
 
 # Building
-To Build the Library
+To Build the Library - JDK 8+
 ```bash
 gradlew jar
 ```
