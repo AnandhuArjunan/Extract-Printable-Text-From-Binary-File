@@ -5,7 +5,7 @@
 ```java
 String file = "abc.dat";
 ExtractPrintableText extractPrintableText = new ExtractPrintableText();
-extractPrintableText.extract(file);
+System.out.print(extractPrintableText.extract(file));
 ```
 
 
